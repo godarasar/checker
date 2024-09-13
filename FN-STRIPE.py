@@ -30,7 +30,7 @@ print('\t\x1b[38;5;153m ElectraOp <--');
 o=("------------------------------------------------------------")
 print(B+o)
 combo=input(X+'COMBO NAME :'+X)
-y=open(f'{combo}',"+r")
+y=open(f'{combo2.txt}',"+r")
 token = input('TOKEN YOUR BOT : ')
 ID = input('ID : ')
 start_num = 0
